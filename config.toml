@@ -1,0 +1,29 @@
+baseURL = "http://yichi.tw/"
+languageCode = "zh-tw"
+title = "YiChi"
+theme = "hyde"
+enableemoji = true
+disqusShortname = "yichi"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  
+[params]
+  themeColor = "theme-base-t"
+  layoutReverse = true
+  description = "My First Blog.<br>Thanks"
+  
+[Menus]
+  main = [
+    {Name = "Letterboxd", URL = "https://www.letterboxd.com/yichi170/"},
+    {Name = "Github", URL = "https://github.com/yichi170/"},
+    {Name = "Posts", URL = "/posts"},
+ ]
+
+[Markup]
+  defaultMarkdownHandler = "blackfriday"
+
+[blackfriday]
+  extensions = ["hardLineBreak"]
