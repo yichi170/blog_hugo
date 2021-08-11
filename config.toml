@@ -1,4 +1,5 @@
-baseURL = "http://yichi.tw/"
+# baseURL = "http://yichi.tw/"
+baseURL = "https://yichi170.github.io/"
 languageCode = "zh-tw"
 title = "YiChi"
 theme = "hyde"
