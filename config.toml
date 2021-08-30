@@ -17,8 +17,8 @@ disqusShortname = "yichi"
   
 [Menus]
   main = [
-    {Name = "Letterboxd", URL = "https://www.letterboxd.com/yichi170/"},
-    {Name = "Github", URL = "https://github.com/yichi170/"},
+    # {Name = "Letterboxd", URL = "https://www.letterboxd.com/yichi170/"},
+    # {Name = "Github", URL = "https://github.com/yichi170/"},
     {Name = "Posts", URL = "/posts"},
  ]
 
