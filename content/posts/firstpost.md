@@ -33,3 +33,5 @@ categories: ["weekly"]
 ### 結
 
 留言功能好似還沒完善，找時間再修理修理它，還有一些有的沒的之後慢慢再修補。
+
+＊ 註：本文部分內容同步刊載於 Instagram ([@kirin17_films](https://www.instagram.com/p/CTOl2LLhZCv/))
