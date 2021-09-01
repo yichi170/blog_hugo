@@ -1,9 +1,15 @@
 ---
-title: "Yichi的隨筆"
 date: 2021-07-21T20:40:57+08:00
 draft: false
 ---
----
-隨手寫寫，我手寫我口<br>
+# <center>Yichi's Blog</center>
 
-空空如也的首頁⋯⋯
+<center><img src="head.JPEG" width="40%"/></center>
+
+<center>--- 不知何時畢業的大學生 ---</center>
+
+---
+
+
+<h3 align = "center"><a href = "/posts">Posts</a></h3>
+

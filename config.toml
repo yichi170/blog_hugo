@@ -11,7 +11,7 @@ disqusShortname = "yichi"
   tag = "tags"
   
 [params]
-  themeColor = "theme-base-t"
+  themeColor = "theme-base-na"
   layoutReverse = true
   description = "My First Blog.<br>Thanks"
   
